@@ -918,7 +918,7 @@ footer strong {
   .word-choice {
     grid-template-columns: 1fr;
   }
-
+  
   .discipline-card {
     min-height: auto;
   }
